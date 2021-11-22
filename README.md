@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente eu estudo Java, html , Javascript, React e MySql
 - 😄 Pronomes: Ela/Dela
-- ❤️ Futura desenvolvedora java full stack jr
+- ❤️ Desenvolvedora java full stack jr
 
  <div>
   <a href="https://github.com/JuliaMoonCrystal">
