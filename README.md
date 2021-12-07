@@ -3,6 +3,7 @@
 - 🌱 Atualmente eu estudo Java, html , Javascript, React e MySql
 - 😄 Pronomes: Ela/Dela
 - ❤️ Desenvolvedora java full stack jr
+ <img align="center" alt="ju-gif" height="360" width="800" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  <div>
   <a href="https://github.com/JuliaMoonCrystal">
