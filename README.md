@@ -18,9 +18,11 @@
   <img align="center" alt="ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ju-Spring" height="30" width="40" src="https://img.icons8.com/color/2x/spring-logo.png">
   <img align="center" alt="ju-MySql" height="30" width="40" src="https://img.icons8.com/ios/2x/4a90e2/mysql-logo.png">
-  <img align="center" alt="ju-MySql" height="30" width="40" src="https://img.icons8.com/color/2x/4a90e2/git.png">
-  <img align="center" alt="ju-MySql" height="30" width="40" src="https://img.icons8.com/color/2x/ffffff/github.png">
-</div>
+  <img align="center" alt="ju-git" height="30" width="40" src="https://img.icons8.com/color/2x/4a90e2/git.png">
+  <img align="center" alt="ju-github" height="30" width="40" src="https://img.icons8.com/color/2x/ffffff/github.png">
+  <img align="center" alt="ju-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="ju-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ </div>
 
    ##
  
