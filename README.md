@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou a Julia
 
-- 🌱 Atualmente eu estudo Java, html , Javascript, React e MySql
+- 🌱 Atualmente eu estudo Java, html , Javascript, React, MySql e Angular
 - 😄 Pronomes: Ela/Dela
 - ❤️ Desenvolvedora full stack node.js/Angular JR
  <img align="center" alt="ju-gif" height="360" width="800" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
