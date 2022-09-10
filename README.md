@@ -21,7 +21,8 @@
   <img align="center" alt="ju-git" height="30" width="40" src="https://img.icons8.com/color/2x/4a90e2/git.png">
   <img align="center" alt="ju-github" height="30" width="40" src="https://img.icons8.com/color/2x/ffffff/github.png">
   <img align="center" alt="ju-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="ju-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="ju-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="ju-adonis.js" height="30" width="40" src="https://inceptum.s3.us-east-1.amazonaws.com/nsXU9vdDeosO/13810373.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20220910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220910T170040Z&X-Amz-Expires=345600&X-Amz-Signature=9c3dbdbba061b7a7c1c854ce46d1cef641ce4db758348147539544db235c0e56&X-Amz-SignedHeaders=host&x-id=GetObject">
  </div>
 
    ##
