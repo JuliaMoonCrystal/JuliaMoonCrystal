@@ -4,6 +4,7 @@
 - 😄 Pronomes: Ela/Dela
 - ❤️ Desenvolvedora full stack node.js/Angular JR
 - 👍 Formada em análise e desenvolvimento de sistemas na Fatec Zona Leste
+- Em busca de novas oportunidades
  <img align="center" alt="ju-gif" height="360" width="800" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
  <div>
