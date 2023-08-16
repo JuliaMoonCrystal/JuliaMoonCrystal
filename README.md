@@ -25,6 +25,7 @@
   <img align="center" alt="ju-github" height="30" width="40" src="https://img.icons8.com/color/2x/ffffff/github.png">
   <img align="center" alt="ju-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="ju-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="ju-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
  </div>
 
    ##
