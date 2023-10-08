@@ -1,4 +1,9 @@
 ### Olá 👋 Eu sou a Julia
+Olá, sou a Julia, uma profissional apaixonada por tecnologia e desenvolvimento de software. Sou formada em Análise e Desenvolvimento de Sistemas, o que me proporcionou uma base sólida em programação e solução de problemas.
+
+Minha jornada no mundo da tecnologia não parou por aí. Atualmente, estou embarcando em uma emocionante jornada de aprendizado e crescimento ao cursar uma pós-graduação em Desenvolvimento Full Stack. Esta experiência tem me permitido explorar ainda mais o universo do desenvolvimento de software, desde o front-end até o back-end, e me desafiar constantemente a criar soluções inovadoras.
+
+Acredito que a tecnologia tem o poder de transformar o mundo e estou comprometida em contribuir para essa transformação. Estou sempre em busca de novos conhecimentos, tendências e ferramentas para me manter atualizada e oferecer o melhor em cada projeto que empreendo.
 
 - 🌱 Atualmente eu estudo Node.js, Adonis.js ,Typescript, React, MySql e Angular
 - 😄 Pronomes: Ela/Dela
