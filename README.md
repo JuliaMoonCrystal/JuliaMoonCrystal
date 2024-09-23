@@ -36,7 +36,7 @@ Acredito que a tecnologia tem o poder de transformar o mundo e estou comprometid
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,css,github,idea,java,js,mongodb,mysql,nodejs,postgres,react,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,angular,css,github,idea,java,js,mongodb,mysql,nodejs,postgres,react,ts,vscode,vue" />
   </a>
 </p>
 
