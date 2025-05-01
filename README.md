@@ -5,9 +5,8 @@ Minha jornada no mundo da tecnologia não parou por aí. Atualmente, estou embar
 
 Acredito que a tecnologia tem o poder de transformar o mundo e estou comprometida em contribuir para essa transformação. Estou sempre em busca de novos conhecimentos, tendências e ferramentas para me manter atualizada e oferecer o melhor em cada projeto que empreendo.
 
-- 🌱 Atualmente eu estudo Node.js, Adonis.js ,Typescript, React, MySql, Angular.js e Vue.js
-- 😄 Pronomes: Ela/Dela
-- ❤️ Desenvolvedora full stack node.js/Angular JR
+- 🌱 Atualmente eu estudo Vue.js, GameMaker, Godot, Python e Next
+- ❤️ Desenvolvedora full stack node.js/Angular PL
 - 👍 Formada em análise e desenvolvimento de sistemas na Fatec Zona Leste
 - 📚 Cursando Pós-Graduação na Faculdade Descomplica Faculdate Digital(Desenvolvedor Full-Stack)
 - 🧐 Em busca de novas oportunidades
