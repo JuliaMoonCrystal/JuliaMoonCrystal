@@ -8,7 +8,7 @@ Acredito que a tecnologia tem o poder de transformar o mundo e estou comprometid
 - 🌱 Atualmente eu estudo Vue.js, GameMaker, Godot, Python e Next
 - ❤️ Desenvolvedora full stack node.js/Angular PL
 - 👍 Formada em análise e desenvolvimento de sistemas na Fatec Zona Leste
-- 📚 Cursando Pós-Graduação na Faculdade Descomplica Faculdate Digital(Desenvolvedor Full-Stack)
+- 📚 Formada na Pós-Graduação na Faculdade Descomplica Faculdade Digital(Desenvolvedor Full-Stack)
 - 🧐 Em busca de novas oportunidades
  <!--<img align="center" alt="ju-gif" height="360" width="800" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
  <img align="center" alt="avatar-github" height="400" width="400" src="https://github.com/JuliaMoonCrystal/Dev_2023/blob/main/octocat-1675252493910.png?raw=true">
