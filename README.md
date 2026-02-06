@@ -30,7 +30,8 @@ Minha experiência se concentra no ecossistema Full Stack, com foco em:
 
 ## 🎓 Formação Acadêmica
 
-* **Pós-Graduação (Em Curso):** MBA em Segurança da Informação - Faculdade Descomplica Faculdade Digital.
+* **MBA (Em Curso):** MBA em Segurança da Informação - Faculdade Descomplica Faculdade Digital.
+* **Pós-Graduação (Em Curso):** Análise de dados - Faculdade Descomplica Faculdade Digital.
 * **Pós-Graduação (Concluída):** Desenvolvedor Full-Stack - Faculdade Descomplica Faculdade Digital.
 * **Graduação (Concluída):** Análise e Desenvolvimento de Sistemas - Fatec Zona Leste.
 
@@ -38,10 +39,12 @@ Minha experiência se concentra no ecossistema Full Stack, com foco em:
 
 ## 📈 Estatísticas do GitHub
 
-<div>
+  <div align="center">
   <a href="https://github.com/JuliaMoonCrystal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuliaMoonCrystal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaMoonCrystal&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JuliaMoonCrystal&show_icons=true&theme=dracula&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/JuliaMoonCrystal">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuliaMoonCrystal&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
 
