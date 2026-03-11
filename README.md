@@ -24,7 +24,7 @@ Minha experiência se concentra no ecossistema Full Stack, com foco em:
 * **Web Frameworks:** Vue.js, Next.js
 * **Game Development:** Godot, GameMaker
 * **Linguagem:** Python
-* **Carreira:** Segurança da Informação (MBA)
+* **Carreira:** Segurança da Informação (MBA) / Engenharia de dados
 
 ---
 
