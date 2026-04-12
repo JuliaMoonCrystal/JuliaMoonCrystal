@@ -24,6 +24,16 @@ SaaS para centralização e acompanhamento de carteiras de investimentos.
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### ⚡ ZapFlow - Automação & CRM para WhatsApp
+Solução de produtividade focada em **vendedores e pequenos lojistas** que utilizam o WhatsApp Web como principal canal de vendas.
+
+* **Impacto:** Reduz o tempo de resposta em até 80% através de um painel de respostas rápidas injetado diretamente na interface, evitando a perda de vendas por demora no atendimento.
+* **Funcionalidade:** Gestão completa (criação, edição e remoção) de templates de mensagens personalizadas. Possui sistema de injeção dinâmica que acompanha a troca de conversas em tempo real.
+* **Destaque Técnico:** Manipulação avançada de DOM com `MutationObserver` e simulação de eventos de input para garantir compatibilidade total com o motor do WhatsApp Web.
+* **Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ---
 
 ## 🛠️ Tech Stack & Especialidades
