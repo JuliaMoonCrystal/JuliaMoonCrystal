@@ -48,8 +48,8 @@ SaaS para centralização e acompanhamento de carteiras de investimentos.
 
 * **Pós-Graduação em Análise de Dados** – Faculdade Descomplica (Em curso).
 * **MBA em Cyber Segurança** – Faculdade Descomplica (Em curso).
-* **Pós-Graduação em Desenvolvimento Full Stack** – Faculdade Descomplica.
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Fatec Zona Leste.
+* **Pós-Graduação em Desenvolvimento Full Stack** – Faculdade Descomplica.(Concluido)
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Fatec Zona Leste.(Concluido)
 
 ---
 
