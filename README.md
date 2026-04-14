@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Julia Farias
+# 👋 Olá! Eu sou a Julia Farias da Rocha
 
 ### 💻 Engenheira de Software Full Stack | Especialista em AppSec & Cloud Performance
 
