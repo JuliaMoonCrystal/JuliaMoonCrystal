@@ -27,7 +27,7 @@ SaaS para centralização e acompanhamento de carteiras de investimentos.
 ### ⚡ ZapFlow - Automação & CRM para WhatsApp
 Solução de produtividade focada em **vendedores e pequenos lojistas** que utilizam o WhatsApp Web como principal canal de vendas.
 
-* **Impacto:** Reduz o tempo de resposta em até 80% através de um painel de respostas rápidas injetado diretamente na interface, evitando a perda de vendas por demora no atendimento.
+* **Impacto:** Reduz o tempo de resposta através de um painel de respostas rápidas injetado diretamente na interface, evitando a perda de vendas por demora no atendimento.
 * **Funcionalidade:** Gestão completa (criação, edição e remoção) de templates de mensagens personalizadas. Possui sistema de injeção dinâmica que acompanha a troca de conversas em tempo real.
 * **Destaque Técnico:** Manipulação avançada de DOM com `MutationObserver` e simulação de eventos de input para garantir compatibilidade total com o motor do WhatsApp Web.
 * **Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
