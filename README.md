@@ -2,7 +2,7 @@
 
 ### 💻 Engenheira de Software Full Stack | Especialista em AppSec & Cloud Performance
 
-Sou uma desenvolvedora com **4 anos de experiência** focada na construção de ecossistemas digitais escaláveis e seguros. Minha base sólida em **Análise e Desenvolvimento de Sistemas (FATEC)** se une ao meu foco atual em **Cyber Segurança (MBA)**, permitindo que eu projete soluções que equilibram alta performance com proteção de dados por design.
+Sou uma desenvolvedora com **4 anos de experiência** focada na construção de ecossistemas digitais escaláveis e seguros. Minha base sólida em **Análise e Desenvolvimento de Sistemas (FATEC)** se une ao meu foco atual em **Cyber Segurança (MBA)** e **Análise de dados** permitindo que eu projete soluções que equilibram alta performance com proteção de dados por design.
 
 ---
 
