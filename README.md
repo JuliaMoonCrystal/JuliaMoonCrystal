@@ -40,7 +40,7 @@ Solução de produtividade focada em **vendedores e pequenos lojistas** que util
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,next,react,vue,nodejs,python,java,ts,js,mysql,postgres,mongodb,aws,docker,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,angular,next,react,vue,nodejs,python,java,ts,js,mysql,postgres,mongodb,aws,docker,github,vscode,nuxt" />
   </a>
 </p>
 
