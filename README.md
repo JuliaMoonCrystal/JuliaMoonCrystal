@@ -1,8 +1,20 @@
 # 👋 Olá! Eu sou a Julia Farias da Rocha
 
-### 💻 Engenheira de Software Full Stack | Especialista em AppSec & Cloud Performance
+### 💻 Desenvolvedora Full Stack | Kotlin | Next.js | Angular
 
-Sou uma desenvolvedora com **4 anos de experiência** focada na construção de ecossistemas digitais escaláveis e seguros. Minha base sólida em **Análise e Desenvolvimento de Sistemas (FATEC)** se une ao meu foco atual em **Cyber Segurança (MBA)** e **Análise de dados** permitindo que eu projete soluções que equilibram alta performance com proteção de dados por design.
+Sou Desenvolvedora Full Stack com mais de 4 anos de experiência
+desenvolvendo e evoluindo aplicações web.
+
+Minha experiência envolve desenvolvimento frontend com Angular,
+Next.js e TypeScript, além de backend utilizando Kotlin, Spring Boot
+e Node.js.
+
+Atuo na criação de funcionalidades, desenvolvimento de APIs REST,
+integração frontend/backend e análise de regras de negócio em sistemas
+reais.
+
+Tenho interesse em engenharia de software, arquitetura de aplicações,
+qualidade de código e boas práticas de desenvolvimento.
 
 ---
 
